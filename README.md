@@ -31,6 +31,7 @@ Out of all the variables, Win Share proved to be the most effective as it had th
 Our approach, however, could be improved if it took into consideration the votes of fans, players, and managers. This is due to the fact that voting is a factor in selecting whether or not a player is an All-Star.
 
 ## Problem 2:
+### (Part 1 file is titled: Home Court Advantage (Effectiveness) )
 
 Aim is to find out whether home court advantage is effective in determining the win percentage of all individual teams.
 
