@@ -42,4 +42,10 @@ Inference:
 
 We found out that the mean squared error and root-mean-square error decreased slightly without the implementation of home-court advantage. We also realised home court advantage on its own does have a significant impact. However, when placed alongside crucial factors, it does not become as effective. In the end, there are still other factors to take note of such as the crowd, the noise, whether the players are recovering from injuries
 
+Contributions:
 
+Introduction and Problem 1 - Anathan Srinath Adhvait (U2121974B)
+Probem 2 - EDA and Analytics Exploration - Wan Kai Jie (U2120427H) 
+           Machine Learning and Statistical Inference - Anapana Dinesh Kumar (U2122938K)
+
+Slides and Script - Everyone
