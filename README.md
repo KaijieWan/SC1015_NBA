@@ -1,5 +1,5 @@
 # SC1015_NBA
-SC1015 Project
+# SC1015 Project
 
 
 Practical Motivation and Sample Collection
@@ -18,7 +18,7 @@ Problem Formulation:
 Problem 1:  What variables are important to predict NBA All-Stars and is it possible to predict the NBA All-stars for future seasons?
 Problem 2: How effective is Home court advantage
 
-Problem 1:
+## Problem 1:
 
 Aim is to find out what statistics are important for a player to be considered an All-Star and the main variables used are Rebounds, points, win share and assists.
 
@@ -30,6 +30,16 @@ Inference:
 Out of all the variables, Win Share proved to be the most effective as it had the highest correlation with All-Star. 
 Our approach, however, could be improved if it took into consideration the votes of fans, players, and managers. This is due to the fact that voting is a factor in selecting whether or not a player is an All-Star.
 
+## Problem 2:
 
+Aim is to find out whether home court advantage is effective in determining the win percentage of all individual teams.
+
+For Exploratory Data Analysis, we compared the points scored by home and away teams, computed the difference in their points from the perspective of home teams, and explored its effectiveness.
+
+In machine learning, we created 2 multivariate regression lines including other factors points, based on 2 equations we came up with.
+
+Inference: 
+
+We found out that the mean squared error and root-mean-square error decreased slightly without the implementation of home-court advantage. We also realised home court advantage on its own does have a significant impact. However, when placed alongside crucial factors, it does not become as effective. In the end, there are still other factors to take note of such as the crowd, the noise, whether the players are recovering from injuries
 
 
