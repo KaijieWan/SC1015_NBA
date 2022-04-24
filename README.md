@@ -26,7 +26,7 @@ For Exploratory Data Analysis, we compared the average statistics of nba players
 
 Next in machine learning, we utilized Random forest to create a model for our prediction. We created 2 models, one with all the variables, and one without the unecessary ones that have a low correlation with All-Star. It was found that the second model had a higher prediction accuracy and thus, we used that to predict the nba all-stars for the 2020-2021 season.
 
-Inference
+Inference:
 Out of all the variables, Win Share proved to be the most effective as it had the highest correlation with All-Star. 
 Our approach, however, could be improved if it took into consideration the votes of fans, players, and managers. This is due to the fact that voting is a factor in selecting whether or not a player is an All-Star.
 
